@@ -1,13 +1,18 @@
 {
   "name": "magefast/module-sitemap-no-outofstock-products",
   "version": "1.0.0",
+  "minimum-stability": "dev",
   "description": "N/A",
   "type": "magento2-module",
   "require": {
     "magento/framework": "*"
   },
-  "license": [
-    "Proprietary"
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "magefast",
+      "email": "magefast@gmail.com"
+    }
   ],
   "autoload": {
     "files": [
